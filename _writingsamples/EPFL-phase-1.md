@@ -7,8 +7,7 @@ date: 2023-09-14
 paperurl: 'https://drive.google.com/file/d/1sLxrUJsr5aTIFfwGGyxial_xNMfqp-vI/view?usp=drive_link'
 ---
 
-<a href="https://drive.google.com/file/d/1sLxrUJsr5aTIFfwGGyxial_xNMfqp-vI/view?usp=drive_link">
-See here</a>
+Download <a href="https://drive.google.com/file/d/1sLxrUJsr5aTIFfwGGyxial_xNMfqp-vI/view?usp=drive_link">here</a>
 
 In this piece I extend the decentralized resource allocation problem by adding
 constraints to each agent's actions. These constraints are unknown as well as the

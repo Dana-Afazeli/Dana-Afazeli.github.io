@@ -7,8 +7,7 @@ date: 2023-10-07
 paperurl: 'https://drive.google.com/file/d/1gIVari_8l7njrrDnHzVj5f646LeS0vvn/view?usp=drive_link'
 ---
 
-<a href="https://drive.google.com/file/d/1gIVari_8l7njrrDnHzVj5f646LeS0vvn/view?usp=drive_link">
-See here</a>
+Download <a href="https://drive.google.com/file/d/1gIVari_8l7njrrDnHzVj5f646LeS0vvn/view?usp=drive_link">here</a>
 
 After the completion of
 <a href="http://localhost:4000/writing-sample/EPFL-phase-1" rel="permalink">

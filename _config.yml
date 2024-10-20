@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-Iran"
-title                    : "Home"
+title                    : "Dana's Homepage"
 title_separator          : "-"
 name                     : &name "Dana Afazeli"
 description              : &description "CSE Student @ Sharif University of Technology"
